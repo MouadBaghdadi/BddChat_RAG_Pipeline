@@ -48,6 +48,9 @@ Customization
 You can customize the behavior of BddChat by modifying the main.py file. This file contains the logic for initializing the application, including setting up the graphical interface and handling user interactions.
 
 ### An exemple of the difference between the LLM's response to an augmented prompt and non augmented one:
+
+the Query is : explique moi la théorie de la normalisation.
+
 * Without aumentation:
 
 <img width="741" alt="without augmentation" src="https://github.com/MouadBaghdadi/RAG_Project/assets/101417636/55ea3cd4-5ae8-4d6e-9dc0-df168d9a3248">
